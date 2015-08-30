@@ -28,7 +28,7 @@ We will make our best effort to:
 - UX matters even more
 - Keep it simple
 - Any code should be reviewed by at at least 1 more person
-- It there's no way to keep it simple, make sure there are comments
+- If there's no way to keep it simple, make sure there are comments
 - Commit as often as possible (try not to have "and" in commit messages) 
 - And again, Keep it simple
 
