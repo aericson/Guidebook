@@ -17,6 +17,7 @@ We will make our best effort to:
 - Provide aid for technical courses/conferences both in person or online
 - Support open source projects
 - Provide a welcoming, safe and health workplace
+- Provide as much coffee and tea as you wish
 
 # Programming style guide
 
