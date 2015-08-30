@@ -9,3 +9,25 @@
 - Tdd, bdd, integration tests, unit tests... you name it, as long as you are writing and running automated tests.
 - Community is one of the most important features of a programming language, keep this in mind when choosing one.
 - Open source is a heck of a great thing, make the most of it and remember to give it back whenever possible.
+
+# To new hires
+
+We will make our best effort to:
+- Provide any technical book you want/need
+- Provide aid for technical courses/conferences both in person or online
+- Support open source projects
+- Provide a welcoming, safe and health workplace
+
+# Programming style guide
+
+- KISS - Keep it simple, stupid
+- Small functions/methods
+- Keep it simple
+- Design matters
+- Keep it simple
+- UX matters even more
+- Keep it simple
+
+## Python
+- (PEP8)[https://www.python.org/dev/peps/pep-0008/]
+
