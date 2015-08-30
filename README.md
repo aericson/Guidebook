@@ -29,5 +29,5 @@ We will make our best effort to:
 - Keep it simple
 
 ## Python
-- (PEP8)[https://www.python.org/dev/peps/pep-0008/]
+- [PEP8](https://www.python.org/dev/peps/pep-0008/)
 
