@@ -1,2 +1,2 @@
 
-A work in progress to document everything is important about Vinta.
+A work in progress to document everything that is important about Vinta.
